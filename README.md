@@ -16,9 +16,11 @@ DevOps & Cloud
 - CI/CD
 - Terraform
 - AWS
+  
 Automation & Scripting
 - Bash
 - Python
+  
 Monitoring
 - Prometheus
 - Grafana
