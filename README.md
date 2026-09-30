@@ -36,24 +36,26 @@ Technologies: Docker · Kubernetes · CI/CD · Terraform · AWS · Linux .Git
 
 deployed a frontend application using a modern DevOps workflow, including containerization, CI/CD, and cloud deployment.
 
-Technologies: Docker · GitHub Actions · AWS · Linux
+Technologies: Docker · GitHub Actions · AWS · Linux . Git
+
+🔗 https://github.com/aneenamathew123/DevSecOps-Project.git
 
 🎓 Education
 
-M.Sc. Communication & Signal Processing
-Technical University of Ilmenau, Germany
+- M.Sc. Communication & Signal Processing
+  [Technical University of Ilmenau, Germany]
 
 My academic background has given me experience with programming, mathematical modelling, signal processing, communication systems, and working with complex technical systems.
 
 🌱 Currently Learning
-Kubernetes
-Terraform
-AWS
-Cloud infrastructure
-Monitoring & observability
-DevOps best practices
+- Kubernetes
+- Terraform
+- AWS
+- Cloud infrastructure
+- Monitoring & observability
+- DevOps best practices
 📫 Connect With Me
-linkedin.com/in/aneena-mathew
-aneenamathew772@gmail.com
+- linkedin.com/in/aneena-mathew
+- aneenamathew772@gmail.com
 
 ⭐ I'm currently looking for opportunities to start my career in DevOps, Cloud Engineering, or Platform Engineering.
