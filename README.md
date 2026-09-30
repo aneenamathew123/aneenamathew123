@@ -7,6 +7,7 @@ I have gained experience with DevOps workflows through my master's thesis and pe
 I enjoy learning how software systems are deployed, automated, monitored, and made more reliable.
 
 🛠️ Technical Skills
+
 DevOps & Cloud
 - Linux
 - Docker
@@ -24,6 +25,7 @@ Monitoring
 - Loki
 
 🚀 Featured Projects
+
 🔹 End-to-End 3-Tier Application
 
 A complete application deployed using a DevOps workflow, covering containerization, infrastructure, deployment, and monitoring.
