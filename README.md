@@ -1,44 +1,60 @@
 Hi, I'm Aneena Mathew 👋
 
-I'm a Communication & Signal Processing master's graduate based in Germany, currently transitioning into DevOps and Cloud Engineering.
+I'm a Communication & Signal Processing master's graduate based in Germany, building my career in Cloud & Infrastructure Engineering, with a focus on DevOps 
+and cloud-native technologies.
 
-I have gained experience with DevOps workflows through my master's thesis and personal projects, working with Linux, Docker, CI/CD, cloud infrastructure, Infrastructure as Code, and Kubernetes.
+My background combines networking, Linux, Kubernetes, cloud infrastructure, automation, and monitoring. Through my master's research and independent projects, 
+I have gained hands-on experience building, deploying, and monitoring containerized applications and infrastructure.
 
-I enjoy learning how software systems are deployed, automated, monitored, and made more reliable.
+I enjoy understanding how infrastructure works, automating repetitive tasks, troubleshooting technical problems, and learning how systems 
+can be deployed and operated reliably.
 
 🛠️ Technical Skills
 
-DevOps & Cloud
-- Linux
-- Docker
-- Kubernetes
-- Git & GitHub
-- CI/CD
-- Terraform
+Cloud & Infrastructure
 - AWS
-  
-Automation & Scripting
+- Terraform
+- Linux
+- Kubernetes
+- Docker
+- VMs
+
+CI/CD & Automation
+- GitHub Actions
+- GitLab CI/CD
+- ArgoCD
 - Bash
 - Python
-  
-Monitoring
+
+Networking
+- TCP/IP
+- Routing & Switching
+- VPC Networking
+
+Observability
 - Prometheus
 - Grafana
 - Loki
+- OpenTelemetry
+
+Version Control
+- Git
+- GitHub
+- GitLab
 
 🚀 Featured Projects
 
 🔹 End-to-End 3-Tier Application
 
-A complete application deployed using a DevOps workflow, covering containerization, infrastructure, deployment, and monitoring.
+A production-style cloud infrastructure project covering infrastructure provisioning, containerization, CI/CD, GitOps deployment, and observability.
 
-Technologies: Docker · Kubernetes · CI/CD · Terraform · AWS · Linux .Git
+Technologies: AWS · Terraform · EKS · Kubernetes · Docker · GitHub Actions · ArgoCD · Prometheus · Grafana · Loki · Linux
 
 🔗 https://github.com/aneenamathew123/Cloud-native-microservices-DevOps.git
 
 🔹 Frontend Application Deployment
 
-deployed a frontend application using a modern DevOps workflow, including containerization, CI/CD, and cloud deployment.
+A containerized frontend application deployed through an automated CI/CD workflow to AWS.
 
 Technologies: Docker · GitHub Actions · AWS · Linux . Git
 
@@ -51,16 +67,17 @@ Technologies: Docker · GitHub Actions · AWS · Linux . Git
 
 My academic background has given me experience with programming, mathematical modelling, signal processing, communication systems, and working with complex technical systems.
 
-🌱 Currently Learning
-- Kubernetes
-- Terraform
-- AWS
-- Cloud infrastructure
-- Monitoring & observability
-- DevOps best practices
+🎯 Currently Learning
+- Cloud infrastructure and architecture
+- Kubernetes and container orchestration
+- Infrastructure as Code
+- Linux and infrastructure administration
+- Monitoring and observability
+- Data center and virtualization technologies
   
 📫 Connect With Me
 - linkedin.com/in/aneena-mathew
 - aneenamathew772@gmail.com
 
-⭐ I'm currently looking for opportunities to start my career in DevOps, Cloud Engineering, or Platform Engineering.
+⭐ I’m open to opportunities in Cloud, Infrastructure, DevOps, Platform Engineering, Systems, Cloud Operations, and Technical Support, where I can contribute
+to reliable infrastructure while continuing to grow my production engineering experience.
